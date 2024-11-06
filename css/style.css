@@ -1,0 +1,168 @@
+.img1 img{
+    width: 400px;
+    box-sizing: border-box;
+    border-radius: 40px 40px 0 0;
+}
+
+.card1{
+    width:300px;
+    padding: 15px 10px;
+    font-family: arial;
+}
+
+
+.card{
+    display: inline-block;
+    margin: 0 20px;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 40px;
+    line-height: 15px;
+}
+
+.card1 h4{
+     color: goldenrod;
+
+}
+
+
+.img2 img{
+    width: 400px;
+    box-sizing: border-box;
+    border-radius: 40px 40px 0 0;
+}
+
+.card3{
+    width:300px;
+    padding: 15px 10px;
+    font-family: arial;
+}
+
+.card2{
+    display: inline-block;
+    margin: 0 20px;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 40px;
+    line-height: 15px;
+}
+    
+
+.card3 h4{
+     color: goldenrod;
+
+}
+
+
+
+.img3 img{
+    width: 400px;
+    box-sizing: border-box;
+    border-radius: 40px 40px 0 0;
+
+}
+
+.card5{
+    width:300px;
+    padding: 15px 10px;
+    font-family: arial;
+}
+
+.card4{
+    display: inline-block;
+    margin: 0 20px;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 40px;
+    line-height: 15px;
+}
+    
+
+.card5 h4{
+     color: goldenrod;
+
+}
+
+.part1{
+    width: fit-content;
+    background-color: rgb(232, 227, 227);
+    display: inline-block;
+    margin: 30px 60px;
+    padding: 50px 20px;
+    border-radius: 40px;
+}
+.img4 img{
+    width: 400px;
+    box-sizing: border-box;
+    border-radius: 40px 40px 0 0;
+}
+.card7{
+    width: 300px;
+    padding: 25px;
+    font-family: arial;
+}
+.card6{
+    display: inline-block;
+    margin: 0 20px;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 40px;
+    line-height: 15px;
+
+}
+.card7 h4 {
+    color:goldenrod;
+}
+.img5 img{
+    width: 400px;
+    box-sizing: border-box;
+    border-radius: 40px 40px 0 0;
+}
+.card9{
+    width: 300px;
+    padding: 25px;
+    font-family: arial;
+}
+.card8{
+    display: inline-block;
+    margin: 0 20px;
+    box-sizing: border-box;
+    background-color:white;
+    border-radius: 40px;
+    line-height: 25px;
+
+
+}
+.card9 h4 {
+    color:goldenrod;
+}
+.img6 img{
+    width: 400px;
+    box-sizing: border-box;
+    border-radius: 40px 40px 0 0;
+}
+.card11{
+    width: 300px;
+    padding: 25px;
+    font-family: arial;
+}
+.card10{
+    display:inline-block;
+    margin: 0 20px;
+    box-sizing: border-box;
+    background-color:white;
+    border-radius: 40px;
+    line-height: 25px;
+
+}
+.card11 h4 {
+    color:goldenrod;
+}
+.part2{
+    width: fit-content;
+    background-color: rgb(232, 227, 227);
+    display: inline-block;
+    margin: 30px 60px;
+    padding: 50px 20px;
+    border-radius: 40px;
+}
